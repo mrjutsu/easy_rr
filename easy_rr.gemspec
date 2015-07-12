@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Simple gem to make round robin matches}
   spec.description   = %q{Simple gem that generates round robin matches based on a received array of participants and an amount of times they will face each other.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/mrjutsu/easy_rr"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
